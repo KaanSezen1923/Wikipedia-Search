@@ -28,27 +28,27 @@ To run the project locally, follow these steps:
 
 
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/KaanSezen1923/Wikipedia-Search.git
 cd wikipedia-search-app
 
-Create and activate a virtual environment (optional):
+2.Create and activate a virtual environment (optional):
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
-Install the required dependencies:
+3.Install the required dependencies:
 
 pip install -r requirements.txt
 
 Usage
 
-Run the Streamlit application:
+1.Run the Streamlit application:
 
 streamlit run app.py
 
-Open your browser and go to the provided URL (usually http://localhost:8501).
+2.Open your browser and go to the provided URL (usually http://localhost:8501).
 
 Enter a query in the text box and press Enter. The application will:
 
