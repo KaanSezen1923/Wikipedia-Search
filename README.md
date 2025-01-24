@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 1.Clone the repository:
 
-git clone https://github.com/KaanSezen1923/Wikipedia-Search.git
+git clone https://github.com/KaanSezen1923/Wikipedia-Search.git 
 cd wikipedia-search-app
 
 2.Create and activate a virtual environment (optional):
