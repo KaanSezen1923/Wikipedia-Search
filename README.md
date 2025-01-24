@@ -1,10 +1,10 @@
-#Wikipedia Search Application
+# Wikipedia Search Application
 
-Overview
+# Overview
 
 The Wikipedia Search Application is a simple and user-friendly web application built with Streamlit. It allows users to search for content on Wikipedia by entering a query. The application leverages the LangChain WikipediaLoader to fetch and display relevant articles from Wikipedia. Additionally, it supports query translation using the Google Translator API, enabling multilingual search functionality.
 
-Features
+# Features
 
 Multilingual Query Support: Users can input queries in any language, which are automatically translated to English for Wikipedia search.
 
@@ -14,7 +14,7 @@ Streamlined Content Display: Combines content from multiple articles and display
 
 Error Handling: Handles errors gracefully, including translation failures and Wikipedia search issues.
 
-Technologies Used
+# Technologies Used
 
 Streamlit: For building the web application interface.
 
@@ -22,7 +22,7 @@ LangChain: For loading and processing Wikipedia articles.
 
 Deep Translator (Google Translator API): For automatic query translation.
 
-Installation
+# Installation
 
 To run the project locally, follow these steps:
 
@@ -58,13 +58,13 @@ Fetch relevant Wikipedia content.
 
 Display the combined content on the page.
 
-File Structure
+# File Structure
 
 .
 |-- app.py                  # Main Streamlit application file
 |-- requirements.txt        # List of dependencies
 
-Example
+# Example
 
 ![image](https://github.com/user-attachments/assets/43daa568-6425-4280-8922-c901f8ca7258)
 
@@ -79,7 +79,7 @@ Example
 
 
 
-Dependencies
+# Dependencies
 
 The application requires the following Python libraries:
 
@@ -91,7 +91,7 @@ deep-translator
 
 You can find the complete list of dependencies in requirements.txt.
 
-Contributing
+# Contributing
 
 Contributions are welcome! To contribute:
 
@@ -103,11 +103,11 @@ Commit your changes and push them to your fork.
 
 Open a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+# Acknowledgments
 
 Streamlit for providing an easy-to-use framework for building data-driven applications.
 
@@ -115,7 +115,7 @@ LangChain for the powerful tools to process and retrieve Wikipedia content.
 
 Deep Translator for enabling multilingual support.
 
-Contact
+# Contact
 
 For any questions or suggestions, feel free to open an issue or contact kaantruk1923@gmail.com.
 
