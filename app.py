@@ -4,7 +4,7 @@ from langchain_community.document_loaders import WikipediaLoader
 
 
 st.set_page_config(page_title="Wikipedia Search")
-st.title("Welcome to Wikioedia Search")
+st.title("Welcome to Wikipedia Search")
 
 query = st.text_input("Enter a query:")
 
