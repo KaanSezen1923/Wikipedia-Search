@@ -76,11 +76,11 @@ Display the combined content on the page.
 
 <br></br>
 
-![Ekran görüntüsü 2025-01-24 200835](https://github.com/user-attachments/assets/3650fadd-6c10-4d61-a8ef-737b21b446eb)
+![Ekran görüntüsü 2025-01-24 221448](https://github.com/user-attachments/assets/51748991-6452-45b1-af76-cb71ee344e48)
 
-<br></br>
 
-![Ekran görüntüsü 2025-01-24 200906](https://github.com/user-attachments/assets/4e8a256a-faef-4a74-98a2-2256c2e9c437)
+
+
 
 
 
