@@ -1,4 +1,4 @@
-Wikipedia Search Application
+#Wikipedia Search Application
 
 Overview
 
@@ -71,6 +71,8 @@ Example
 <br></br>
 
 ![image](https://github.com/user-attachments/assets/b9254b2b-1191-4e44-a9a0-41164001ecf5)
+
+<br></br>
 
 ![image](https://github.com/user-attachments/assets/7c06680d-6009-468f-abe3-05ad6175f791)
 
