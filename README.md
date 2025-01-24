@@ -66,15 +66,23 @@ Display the combined content on the page.
 
 # Example
 
-![image](https://github.com/user-attachments/assets/43daa568-6425-4280-8922-c901f8ca7258)
+![Ekran görüntüsü 2025-01-24 221349](https://github.com/user-attachments/assets/a92e70b5-6e3d-43f6-9f7a-dd20d8092ebb)
+
 
 <br></br>
 
-![image](https://github.com/user-attachments/assets/b9254b2b-1191-4e44-a9a0-41164001ecf5)
+![Ekran görüntüsü 2025-01-24 200719](https://github.com/user-attachments/assets/df5a6703-6e8c-4270-91d0-95568caf34f8)
+
 
 <br></br>
 
-![image](https://github.com/user-attachments/assets/7c06680d-6009-468f-abe3-05ad6175f791)
+![Ekran görüntüsü 2025-01-24 200835](https://github.com/user-attachments/assets/3650fadd-6c10-4d61-a8ef-737b21b446eb)
+
+<br></br>
+
+![Ekran görüntüsü 2025-01-24 200906](https://github.com/user-attachments/assets/4e8a256a-faef-4a74-98a2-2256c2e9c437)
+
+
 
 
 https://wikipedia-search-3791.streamlit.app access the project this link.
