@@ -77,6 +77,9 @@ Display the combined content on the page.
 ![image](https://github.com/user-attachments/assets/7c06680d-6009-468f-abe3-05ad6175f791)
 
 
+https://wikipedia-search-3791.streamlit.app access the project this link.
+
+
 
 
 # Dependencies
